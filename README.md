@@ -276,6 +276,11 @@ In activity_profile.xml
 ![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/866c4c65-dd78-4fb5-b6e1-2c307f87abb3)
 
 ## Output on Samsung Galaxy A34
+![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/695d6b12-e02a-48e2-aec3-8d03849c263d)
+![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/5c7c8cb1-d3b7-40d8-8ec3-b44fc45a950f)
+![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/146fbc6f-1144-4ea6-a316-78b6dbc4aa7b)
+![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/ae242a4f-08bd-46e6-898d-aae96332362e)
+![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/9800a5e3-b210-4955-9651-12d8285a0e56)
 ![OUTPUT](./1.jpg)
 ![OUTPUT](./2.jpg)
 ![OUTPUT](./3.jpg)
