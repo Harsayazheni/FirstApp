@@ -1,17 +1,22 @@
 # FirstApp
 ## Workshop Dates 27.10.23 - 28.10.23
-Hands on Mobile App Development 
+Hands on Mobile App Development
+
 Company Name : IVY Mobility
-Resource Person:
-Mr V.Murugan MCA.,MBA
-Technical Architect.
+
+Resource Person: Mr V.Murugan MCA.,MBA (Technical Architect).
 
 ## Lessons Learnt 
 1.Introduction to Mobile App Development.
+
 2.Android Environment Setup and Architecture.
+
 3.Creating Your First Android App.
+
 4.Android User Interface (UI) Layouts and Control.
+
 5.Designing simple application.
+
 6.Debugging and Deployment.
 
 ## Event Poster
