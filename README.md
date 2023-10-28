@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/1ade1276-4936-41bd-bdad-c2a6ad73f070)
 
 In activity_main.xml
 ```
@@ -264,3 +265,10 @@ In activity_profile.xml
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
+## Output on Pixel 4 API 33
+![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/bce22a5c-fa8c-4b16-929d-e9dc5c611f37)
+![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/b06df626-7713-400e-b752-aa6869d01952)
+![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/866c4c65-dd78-4fb5-b6e1-2c307f87abb3)
+
+## Output on Samsung Galaxy A34
