@@ -16,6 +16,8 @@ Technical Architect.
 
 ## Event Poster
 ![OUTPUT](./Poster.jpg)
+![WhatsApp Image 2023-10-28 at 17 06 11_36e230aa](https://github.com/Harsayazheni/FirstApp/assets/118708467/9bf21021-252a-4a5a-a70a-b94be60ad8ca)
+
 
 ## Program
 
