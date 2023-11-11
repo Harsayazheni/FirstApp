@@ -25,7 +25,6 @@ Resource Person: Mr V.Murugan MCA.,MBA (Technical Architect).
 
 ## Event Poster
 ![OUTPUT](./Poster.jpg)
-![WhatsApp Image 2023-10-28 at 17 06 11_36e230aa](https://github.com/Harsayazheni/FirstApp/assets/118708467/9bf21021-252a-4a5a-a70a-b94be60ad8ca)
 
 
 ## Program
@@ -80,7 +79,6 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ![OUTPUT](./program.png)
-![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/1ade1276-4936-41bd-bdad-c2a6ad73f070)
 
 In activity_main.xml
 ```
@@ -275,9 +273,6 @@ In activity_profile.xml
 ![OUTPUT](./out1.png)
 ![OUTPUT](./out2.png)
 ![OUTPUT](./out3.png)
-![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/bce22a5c-fa8c-4b16-929d-e9dc5c611f37)
-![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/b06df626-7713-400e-b752-aa6869d01952)
-![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/866c4c65-dd78-4fb5-b6e1-2c307f87abb3)
 
 ## Output on Samsung Galaxy A34
 ![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/695d6b12-e02a-48e2-aec3-8d03849c263d)
@@ -285,8 +280,4 @@ In activity_profile.xml
 ![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/146fbc6f-1144-4ea6-a316-78b6dbc4aa7b)
 ![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/ae242a4f-08bd-46e6-898d-aae96332362e)
 ![image](https://github.com/Harsayazheni/FirstApp/assets/118708467/9800a5e3-b210-4955-9651-12d8285a0e56)
-![OUTPUT](./1.jpg)
-![OUTPUT](./2.jpg)
-![OUTPUT](./3.jpg)
-![OUTPUT](./4.jpg)
-![OUTPUT](./5.jpg)
+
